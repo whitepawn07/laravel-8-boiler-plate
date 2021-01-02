@@ -3,9 +3,9 @@
 
 
 ## Installation
-    ```
+    
     (https://laravel.com/docs/8.x/installation#getting-started-on-windows)
-    ```
+    
     on wsl terminal 
     start the wsl mysql
     `sudo service mysql start`
